@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # Make a pdftoxml method just like in Python
 module PdfHelper
   def self.pdftoxml(data, options = "")
